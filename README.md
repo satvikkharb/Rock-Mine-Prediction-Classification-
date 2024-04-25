@@ -35,7 +35,7 @@ This project involves the classification of sonar data into two categories: "Roc
 - Explore techniques for hyperparameter tuning to optimize the performance of the models.
 
 **Contributors:**
-- [Your Name/Username]
+- Satvik Kharb
 
 **License:**
 - This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
