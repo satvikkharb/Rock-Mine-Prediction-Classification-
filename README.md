@@ -41,4 +41,4 @@ This project involves the classification of sonar data into two categories: "Roc
 - This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 **Contact Information:**
-- For any questions or feedback, please contact [Your Email Address].
+- For any questions or feedback, please contact satvikkharb@gmail.com.
